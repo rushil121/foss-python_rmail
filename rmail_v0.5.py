@@ -1,4 +1,4 @@
-# R mail v0.5
+# R mail v0.5 by PRN 2018420121
 
 import datetime
 
